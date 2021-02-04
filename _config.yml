@@ -4,9 +4,9 @@
 # ---------------------------------------------------------------
 
 # Site
-title: WUPROBOOK
-subtitle:
-description: Junior Frontend Developer
+title: WUPRO-
+subtitle: TILs & TOY PROJECTs
+description: FRONTEND DEVELOPER
 author: WUPRO
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
@@ -78,18 +78,18 @@ plugins:
 favicon:
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll, NexT"
+keywords: "Frontend, Developer"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
-rss:
+rss: false
 
 # Specify the date when the site was setup
 #since: 2015
 
 # icon between year and author @Footer
-authoricon: wupro
+authoricon: WUPRO
 
 # Footer `powered-by` and `theme-info` copyright
 copyright: true
